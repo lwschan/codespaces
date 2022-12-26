@@ -1,4 +1,34 @@
 {
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "lwschan/codespaces": {
+          "permissions": {
+            "contents": "write",
+            "pull_requests": "write"
+          }
+        },
+        "lwschan/whats-playing-bot": {
+          "permissions": {
+            "contents": "write",
+            "pull_requests": "write"
+          }
+        },
+        "lwschan/telegram-weather-bot": {
+          "permissions": {
+            "contents": "write",
+            "pull_requests": "write"
+          }
+        },
+        "lwschan/lewischan.dev": {
+          "permissions": {
+            "contents": "write",
+            "pull_requests": "write"
+          }
+        }
+      }
+    }
+  },
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
     "ghcr.io/devcontainers/features/git:1": {},
