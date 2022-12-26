@@ -1,7 +1,7 @@
 {
 	"folders": [
 		{
-			"path": ".codespaces/.persistedshare/dotfiles"
+			"path": "../.codespaces/.persistedshare/dotfiles"
 		}
 	],
 	"settings": {}
