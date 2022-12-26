@@ -25,6 +25,12 @@
             "contents": "write",
             "pull_requests": "write"
           }
+        },
+        "lwschan/dotfiles-codespaces": {
+          "permissions": {
+            "contents": "write",
+            "pull_requests": "write"
+          }
         }
       }
     }
