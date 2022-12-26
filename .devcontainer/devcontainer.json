@@ -2,35 +2,17 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "lwschan/codespaces": {
-          "permissions": {
-            "contents": "write",
-            "pull_requests": "write"
-          }
-        },
         "lwschan/whats-playing-bot": {
-          "permissions": {
-            "contents": "write",
-            "pull_requests": "write"
-          }
+          "permissions": "write-all"
         },
         "lwschan/telegram-weather-bot": {
-          "permissions": {
-            "contents": "write",
-            "pull_requests": "write"
-          }
+          "permissions": "write-all"
         },
         "lwschan/lewischan.dev": {
-          "permissions": {
-            "contents": "write",
-            "pull_requests": "write"
-          }
+          "permissions": "write-all"
         },
         "lwschan/dotfiles-codespaces": {
-          "permissions": {
-            "contents": "write",
-            "pull_requests": "write"
-          }
+          "permissions": "write-all"
         }
       }
     }
