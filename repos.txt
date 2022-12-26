@@ -1,0 +1,2 @@
+lwschan/whats-playing-bot
+lwschan/telegram-weather-bot
