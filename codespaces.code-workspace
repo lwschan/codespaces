@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../whats-playing-bot"
+		},
+		{
+			"path": "../telegram-weather-bot"
 		}
 	],
 	"settings": {}
