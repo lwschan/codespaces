@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../telegram-weather-bot"
+		},
+		{
+			"path": "../lewischan.dev"
 		}
 	],
 	"settings": {}
