@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "../lewischan.dev"
+		},
+		{
+			"path": "../weather-bot.dev"
 		}
 	],
 	"settings": {}
