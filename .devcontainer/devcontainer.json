@@ -13,6 +13,9 @@
         },
         "lwschan/dotfiles-codespaces": {
           "permissions": "write-all"
+        },
+        "lwschan/weather-bot": {
+          "permissions": "write-all"
         }
       }
     }
@@ -22,7 +25,12 @@
     "ghcr.io/devcontainers/features/git:1": {},
     "ghcr.io/devcontainers/features/terraform:1": {},
     "ghcr.io/devcontainers/features/node:1": {},
-    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+    "ghcr.io/devcontainers/features/java:1": {
+      "jdkDistro": "open",
+      "version": "21",
+      "installGradle": true
+    }
   },
   "postCreateCommand": "bash clone-repos.sh"
 }
